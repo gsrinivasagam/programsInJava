@@ -1,0 +1,2909 @@
+links shared by hari and me
+2,307,896 - Starting leetcode rank
+891,660
+881,075 - My leetcode rank
+860,898
+https://www.scaler.com/event/how-to-land-sde-jobs-outside-india-cbd/?utm_source=ads&utm_medium=googleyoutube&utm_content=topic&utm_term=academy_livemasterclass-20220918-e903-c1_video_white_sde-job-abroad_none_studio-male-stephan&utm_campaign=perf_scaler_livemasterclass_ads_googleyoutube_top-funnel-awareness-india_24-44&param1=621520225139&param2=c&param3=&gclid=Cj0KCQjwmouZBhDSARIsALYcoup6K4Ll5CgzEFFwah95aFUqIIKXjSjEbbprQ7KDVi_tutAR6vCdJPAaAq0wEALw_wcB
+https://www.wearedevelopers.com/magazine/93-java-interview-questions-you-should-prepare-for
+https://www.youtube.com/c/DrunkenEngineer/videos
+https://www.careercup.com/
+https://mothertong.com/tamil/courses/problem-solving-with-dsa-in-tamil
+https://www.youtube.com/watch?v=2pMceMTXj3g&list=PLRt-r4QiDOMeF2zGhSoQKg07UwyrpryVc&index=4
+https://www.interviewbit.com/java-interview-questions/
+https://globallogic.udemy.com/course/system-design-interview-prep/learn/lecture/28971348#overview
+https://www.youtube.com/channel/UC9vLsnF6QPYuH51njmIooCQ
+System Design Interview - Top K Problem (Heavy Hitters)  https://www.youtube.com/watch?v=kx-XDoPjoHw
+distributed cache - https://www.youtube.com/watch?v=iuqZvajTOyA
+Elasticsearch Tutorial  - https://www.youtube.com/watch?v=1EnvkPf7t6Y
+Open source contribution - https://github.com/MunGell/awesome-for-beginners
+https://github.com/hxu296/leetcode-company-wise-problems-2022 --- leetcode-company-wise-problems-2022 ---  
+https://github.com/MysteryVaibhav/leetcode_company_wise_questions
+https://github.com/krishnadey30/LeetCode-Questions-CompanyWise/blob/master/capital-one_2year.csv
+Himanshu malik
+https://github.com/jsm-28415?tab=repositories
+https://github.com/jsm-28415/_DSAfoundation/tree/master/BasicDataStructure/LinkedList
+
+https://itsabhinav.netlify.app/
+https://github.com/abhinaba-ghosh/specflow-bdd-framework
+https://github.com/xizhengszhang/Leetcode_company_frequency
+https://github.com/xizhengszhang/Leetcode_company_frequency#google
+https://leetcode.com/hi-malik/
+https://leetcode.com/wangzi6147/
+https://github.com/KhushbooGoel01/Top-Interview-Questions--Leetcode
+https://www.google.com/search?q=github+latest+leetcode+interview+questions&rlz=1C1GCEA_enIN922IN922&oq=github+latest+leetcode+interview+questions&aqs=chrome..69i57j69i64.7930j0j7&sourceid=chrome&ie=UTF-8
+https://github.com/RameshMF/java-8-tutorial  -- java 8 tutorial
+https://seanprashad.com/leetcode-patterns/  -- company wise
+https://github.com/SeanPrashad/leetcode-patterns/tree/solutions  -- solutions in java
+https://github.com/hxu296/leetcode-company-wise-problems-2022
+Sameer.sapre@allstate.com
+https://medium.com/@koheiarai94/60-leetcode-questions-to-prepare-for-coding-interview-8abbb6af589e
+https://github.com/seanprashad/leetcode-patterns/blob/master/src/data/questions.json
+https://medium.com/coders-mojo/most-popular-coding-questions-company-wise-list-part-1-14ddf2a6194d
+https://leetcode.com/submissions/#/12  -- started with array
+java 8 - https://www.benchresources.net/
+react basic questions -- https://www.edureka.co/blog/interview-questions/react-interview-questions/
+Backtracking sol to multiple problems -- https://leetcode.com/problems/combination-sum/discuss/16502/A-general-approach-to-backtracking-questions-in-Java-(Subsets-Permutations-Combination-Sum-Palindrome-Partitioning)
+Journey to faang ---  https://leetcode.com/discuss/interview-experience/3171859/Journey-to-a-FAANG-Company-Amazon-or-SDE2-(L5)-or-Bangalore-or-Oct-2022-Accepted
+
+System design:
+
+youtube:
+Grokking the System Design Interview
+
+Playlist - Concept && Coding - by sharanyesh
+https://www.youtube.com/watch?v=rliSgjoOFTs&list=PL6W8uoQQ2c61X_9e6Net0WdYZidm7zooW
+
+System Design Fight Club
+https://www.youtube.com/@SDFC/playlists
+
+
+https://www.youtube.com/watch?v=lYoSd2WCJTo
+https://www.youtube.com/watch?v=Ale7Fn921GQ&t=1819s
+https://www.youtube.com/@sudocode/playlists
+
+configure smtp in java
+filters to validate requests from other services
+how anonymous inner claas used for Above same
+kafka implemented inplace of database to handle data streaming and processing
+How to store images in AWS S3
+How to store images and its related metadata in both s3 and DB
+
+ ===================================================POC to do============================================================================
+POC to do :
+
+Kafka pas evens
+mongodb
+jpa
+Elasticsearch impletntation
+
+lock over Database
+if 3 entities try to access 1 prod db notallow
+rollbavk inventory service when payment is cancelled
+redis timeout
+cron implementation
+springbatch implementation
+JPA implementation
+implement cassandra if possible
+Redis full implementation
+Load balancer implementation
+
+======================================================To do problems - Locked for subscribers============================================================================
+
+https://leetcode.com/problems/flatten-2d-vector/
+https://leetcode.com/problems/smallest-common-region/
+https://leetcode.com/problems/pour-water/
+https://leetcode.com/problems/design-hit-counter/
+https://leetcode.com/problems/optimal-account-balancing/
+https://leetcode.com/problems/alien-dictionary/	
+
+Hard todo
+
+https://leetcode.com/problems/palindrome-pairs/
+https://leetcode.com/problems/tag-validator/
+
+=========================
+AWS lambda
+cloudformation in aws ec2 instance
+
+SQL questions :
+
+https://github.com/Aafreen29/SQL-Interview-Prep-Question/blob/master/queries.sql
+
+Interview Questions
+-----------------------------------------------others
+
+migrate date from one to another database
+
+validate auth token using resource server -- https://stackoverflow.com/questions/12296017/how-to-validate-an-oauth-2-0-access-token-for-a-resource-server
+
+
+
+Major improvement area :
+
+
+Writing code for aws s3 bucket  -- https://github.com/Java-Techie-jt/s3-file-storage-example
+Code to push and receive values in kafka
+write code to generate docker image
+more on eks
+
+
+-----------------------------------------------
+
+@Entity and @Class
+COnvert date from db to a diff format. WHere we will add it
+Spring data JPA uses which ORM
+(Spring data JPA uses which ORM commonly in real world production applicaitons in software companies)
+
+websevices - authorization for 5 class and open acccess for 5 classes
+Spring security
+authentication and authorization configuration in web service
+web service is stateful/stateless. (by passing session)
+Other than springboot rest controller any other way to create rest services ?
+Rest controller classes using singleton
+Servlet and rest controller difference ?
+if a java appplication Application takes lot of memory and CPU how to debug
+Functional Interfaces
+Why functional interfaces instead of Anonymous inner class.
+custom goals in pom . which will be triggered during mvn clean or build
+Custom repo instead of a .m2
+Why controller instead of servlet
+how do you handle cors scripting
+static analysis instead of memory analysis
+connection pooling
+Common library for implementing connection logic
+Authentication we use is JWT.
+Two different DataSource in springboot JPA
+sharding ?
+graph DB
+
+
+JPA annotation or Hibernate annhow otation.
+Deploy application
+
+
+
+
+
+Why loginUser method in auth-actions has no endpoint where is it calling to ?
+How do you set authentication for a react application
+
+From ChatGPT   -------
+Can you explain the difference between abstract classes and interfaces in Java?
+How would you implement a thread-safe Singleton in Java?
+Can you describe the difference between shallow and deep cloning in Java?
+Can you walk us through the process of designing a high-performance, memory-efficient data structure in Java?
+Can you explain the use of the volatile keyword in Java and how it works?
+How would you handle errors and exceptions in a multithreaded environment in Java?
+Can you explain how Java’s garbage collector works and what parameters can be used to tune it?
+Can you give an example of how to use design patterns in Java to improve code quality and maintainability?
+Can you explain the difference between ArrayList and LinkedList in Java and when to use one over the other?
+Can you discuss the process of tuning the performance of a Java application, including profiling and optimizing memory usage?
+
+
+=============
+
+"Given a list of integers and a target number, write a function to find all unique combinations of numbers in the list that add up to the target number. The same number from the list can be used multiple times in a combination.
+
+How would you optimize your solution to handle large input data and provide the most efficient solution in terms of time complexity?"
+
+=================
+
+What is the difference between an interface and an abstract class in Java?
+How does Java handle multi-threading and synchronization?
+Can you explain the concept of inheritance in Java and give an example?
+How do you handle exceptions in Java and what is the difference between checked and unchecked exceptions?
+Can you explain the use of the “final” keyword in Java?
+What is the difference between a HashMap and a Hashtable in Java?
+How does garbage collection work in Java and what is the role of the finalize method?
+Can you explain the concept of Java generics and give an example of its use?
+What is the difference between a static and non-static inner class in Java?
+Can you explain the difference between equals and == in Java and when to use each one?
+
+Company -----------------------
+
+Basic springboot questions with annotatiosn
+
+@RestController , @Controller
+, @Service tag
+
+Can you call a service from differet package , where do u specify the path
+
+Can you Make the autowire supply the object without @Service annotation
+
+ Can you call a REST api without @RESTController , what you have to do
+ 
+Design patterns, Factory design pattern . How it is used here ?
+ 
+HashTable and HashMap difference ?
+
+Set - How set is created internally  (Big O complexity for this)
+
+Product Design Swiggy
+
+Oracle Query - Emploeyee (id,name) Performance (id,rating) - use joing query to get name only for  rating 5 and 1
+
+Java program group anagrams in a seperate bucket
+
+Microservices , why microservices
+
+If both the instance servers fails how will you handle it. What exception you show user
+
+If 1 million request comes , how will you handle it. (Since payment gateway is costly will you scale up payment gateway also ?)
+
+https://dev.to/somadevtoo/50-java-interview-questions-for-practice-1c96?ref=dailydev
+
+React --
+
+Hooks , use of hooks, useEffect, useRef - why is it used for  ?
+
+const [a,setA] = useState(false)
+const [b,setB] = useState(false)
+
+If a changes b should change -- Ans use useEffect
+
+Mock and SPY difference in JUNIT
+
+Can you run test mock classes in different package . How ?
+
+
+
+
+==============================================
+
+ AWS or azure
+ 
+Microservices , 
+
+Why serverless architechure
+
+How do you increase your servers
+
+Can you discover service without Service discovery like eurekha
+
+what is Service orchestration
+
+Java/Springboot
+
+What are the exception you send from your service. Where and all you will handle it.
+
+What are the exceptions you will hanle and how do u do
+
+
+React 
+
+how to Use Effects to make call 
+
+in your project you use which compoenent more (presentational/functional)
+
+Tell the layers in your redux
+
+where do you handle calls to redux (in reducers and how ?)
+
+Which middelware you use
+
+Can u make call without middleware and just by using hooks
+
+Agile process
+
+
+-------------Mind Tree
+
+Java 8 -- features in java 8
+
+Design patterns
+SIngleton and others
+
+Multi threading
+
+Executors
+Thread
+Prod -consumer
+
+How to use executors in prod const
+
+Write a code with executors
+
+What happens when a thread is paused in middle for an operation
+
+program for prod conumer
+
+ArrayList -- override get , put method
+How arraylist works internally
+
+COncurrent HashMap and hashmap in a synch loop whats the difference
+
+
+
+
+------------------Cap Gemini
+
+How can u avoid rerender in a component
+
+Pure components
+
+HOC
+
+How to make sure a state or variable is rendered only once
+
+Ways to pass values from one comp to another
+
+Exceptions null,undefined, undeclared, when will it come
+
+Can var be used in a forLoof?  (Ans no ,why)
+
+let i
+for(i=0i<3;i++) 
+{
+setTimeout(log,100)
+}
+
+const clothes = ['jacket','tshirt']
+clothes.length =0
+clothes[0]  // what is the error
+
+Es5 and ES6 difference
+
+clojure methods in javascript
+
+Bind for fucntion
+
+Layers of redux  -- how it is used
+
+Hooks
+
+Provider 
+
+
+Wells Fargo ----
+
+why map is used for iterating
+
+Use effects lifecyclce how is defined
+
+clojure
+
+something in js
+
+controlled and uncontrolled componenets
+
+higher order operations
+
+write a program to mimick map operations
+
+program to call axios call only when stoped typing for 400ms
+
+Axios call even if one fails others should not be called
+
+promise
+
+promise.all , promise.race
+
+ES6 features
+
+
+scope of var
+
+difference let and var
+
+other es6 operations
+
+memo in react how to use
+
+======================= new notes
+
+https://github.com/altafjava/spring-interview-questions-answers#What-is-a-Java-Bean
+https://github.com/altafjava/spring-interview-questions-answers
+
+collection of all
+https://github.com/topics/java-interview-questions
+
+
+
+Virtusa
+
+React js
+What is promise
+
+Java :
+Hashmap implementation
+Java 8
+Design patterns
+avoid deadlock conditions  --https://www.geeksforgeeks.org/how-to-solve-deadlock-using-threads-in-java/
+resolve deadlock
+Resolve deadlock using timeout
+
+Springboot :
+
+what is IOC
+How IOC is diff from DI
+how you communicate with your DB - hibernate or JPA .
+What is the dialect you use in your spring data JPA
+How to create custom JPA API's.
+What are the annotations used in your repository
+What is entity 
+How do you configure your entity
+Annotations used in your entity
+@Data and @Entity difference  -- https://projectlombok.org/features/Data --https://javabydeveloper.com/lombok-data-annotation/
+What is configuration server and how is it configured in your project ?
+what is zuul?
+Have you used hibernate
+
+Float double difference ?
+Why long over int ?
+i++ and ++i diff ?
+
+Wipro :
+
+Java programs :
+wirte a recursive program to calculate x^n
+
+Create employee class with emp no 2 and emp no 1 and 
+creae a set and add 3 employee objects in set and 2 
+objects with employee id 1
+3rd with emp id 2
+
+Java 8
+implementing custom immutable class
+application.properties and bootstrap.properties difference
+Inheritance Mapping in JPA
+How do you establish many to many relationship in JPA
+AOP
+
+
+========= react===
+
+
+Preflight requests
+clojure
+Arrow functions
+setState with arrow
+fucntion call within function
+self functions
+props without drilling (that is no need to pass from 1st comp to 4th if u need oly in 4)
+currying
+cors response error in request
+diff saga and thunk
+
+
+Callback
+clojure
+
+========== Java =====
+
+Builder design pattern - Other design patterns
+Java 8
+JPA
+
+Put and Patch other postman requests
+Concurrent modification exception
+@ResponseEntity
+
+Predicates , lambda
+
+
+BIrlaSoft ----
+Microservice - how to configure different databases (different from profiling)
+How do you create a full e commerce applications
+How do you handle exceptions
+@SpringApplication
+predicate functional interface difference
+Design patterns on microservices
+Arraylist linkedlist difference
+Size of Hashmap
+Can you use functional interface outside Java class
+@FunctionalInterface
+Conditional chaining in streams
+What is the functional interface inside streams
+What are the ways you can use Optional
+JVM full structure
+PermGen and MetaSpace
+Threads implementation 
+Is java pure object oriented language
+
+
+==========
+java
+Assosiation , Composition, Aggregation
+
+application properties and yaml difference
+Database queries
+java 8
+lambda empressions
+streams
+
+JPA , custom JPA
+==========
+Wells Fargo ====
+@SpringbootApplication what is the use of this annotation
+@Bean, @Component , @ComponentScan difference where we use it
+spring mvc & Spring boot advantages
+Springboot advantages - @document, dispact servlet not needed is it not advantages
+What are the different profiling mechanisms
+How can we segregate logging (like server logs, application logs and public logs)
+Design patterns used in microservices
+principles or contracts of designing microservices
+12 factor of microservices
+Zuul
+which version of rest and jax rs you are using
+Rest call
+
+java 8
+Different imp of forEach
+Functional interface why is it needed when we aldready have an interface
+streams
+
+
+=================
+
+
+Java 8
+
+Intermediate and terminal in streams
+return type of stream after a intermediate search
+
+micorservices pattern
+Which pattern to use when we want to see a single user operation across multiple services since there will be tonnes of logs
+Elasticsearch
+ElkStack
+Service Discovery and Service Routing
+Docker . How to create a docker image
+How to add a a docker image to server
+js - let , var, const
+stateful/stateless servers
+Functional programming in java
+
+https://www.careercup.com/
+
+
+wipro second round ======
+java 8
+Write a program using streams to print duplicate values
+https://leetcode.com/discuss/interview-question/589242/find-duplicates-in-a-stream-of-numbers-on-a-multicore-system
+What are the patterns used in your micorservices
+@Value and @configurationProperties
+Java 8 implementation of hashMap
+Lambda expression
+default method
+@Service and @Repository
+How do you commuincate from 1 service to another in microservice
+How you add Eureka to your micorservices for communication
+application.properties and appliction.yml difference
+@Configuration
+@Configuration and @Component difference
+@EnableConfigurationProperties
+
+
+HCl 2nd round====
+
+Microservices cons
+How zipkin and sleuth is used find tracebility  (how trace id is being generated and how is the chain of link is being formed)
+OAuth and JWT structures and how is it being implemented
+OAuth is used for authentication or autherization how is it and why ?
+What is the process and internal happening of log from elk stack log stash - kibana (log adding , indexing how is it performing all the operations)
+How do you optimised your project performance
+How do you ensure security of your services
+How do you have different database for different services 
+Difference JPA respository and CRUD respository
+LinkedHashMap and TreeMap difference
+Program - sort list of name by surnames using java 8 {Williams Robert, Phillips Warren, Doe John, Phillips Mark}
+Puzzle - One ball heavier in 10 balls find that heavy ball in 2 iterations.
+MultiThreading
+Design patterns
+API gateway - WHat are the operations performed in it and How do you configure a new API gateway
+CDN used in your project
+CI/CD pipeline used to deploy your project to production
+
+
+======== L&T
+
+@RestController and @Controller
+stop and yield in thread
+List and Map
+List A List B has values . Using java 8 streams add unique values from this list to List C
+
+
+======== 
+
+transaction function like when once request gets failed during DB operation other also should rollback
+Spring security
+Dependencies added by you in pom.xml
+multiple database how do you configure
+multiple database How do you access in repository class (JPA)
+How to switch from one database to another
+Design patterns
+Java 8 streams 
+Springboot which version -- 2.3.4
+How do you handle exceptions in springboot
+There is an exception class, When springboot gets an exception who is redirecting it to the Exception class which we created
+CI/CD pipeline . How your code goes to production 
+what is the jpa provider used in my project
+
+
+===========
+
+Spring Security
+How authentication authorization maintained between services
+foreign key relationshionship using JPA
+
+==========co forge
+
+A.properties , b.properties , applicationn.properties - how do you add all the prop files to springboot modules and combine prop
+java streams
+
+==========
+UI program:
+Add play button which will start counter from 1,2,3...
+Cliick on pause button it will stop count, click on resume it will start again
+
+Java Program :
+
+Find the sum of graph by traversing through the nodes
+
+
+=========
+
+Java 8
+
+Where exactly a functional interface can be used
+Why they have introduced functional interface
+
+Microservices:
+
+How do you configure rate limiter for a user who should not be allowed more than 100 request . This threshold value will vary from user to user
+across multiple  instance where you run how do you ensure the users reuest is not more than 100 in this example. If it is 10 instance not 100
+in each but overall should be 100. It has to be a shared space not a datastructure or code level handling . HOw to do you achieve it
+
+Java program . How do you convert from this to this
+//1,3,@,2,6,%,5,7
+//1,2,@,3,4,%,5,6
+
+pure componenets in react
+
+
+program java  : 
+
+MatchStringINDiifOrderAndCase
+
+        String arr[] = {"aab"," Aba"," ABa","bAA", "Ana", "BAA", "AAB", "AbAD"};
+        String stringInp  ="bAa";
+		
+Find sum of largest numbers
+
+
+DBS bank =====
+
+React 
+How do you write  a call in frontend such that when user types on search bar . He should be shown matching search below . 
+But for every character u make an api call for 256 characters u make 256 calls . How do you handle this scenario in front end
+Where do you store 
+Rxjs
+
+Java 
+
+How do you create an Exception class to throw a generic exception format to a request when it fails or during an exception
+in our service
+Annotation for the above
+How do you handle transactional management , what are the annotations and implementations you do for it    --https://www.youtube.com/watch?v=95kxPSbHzVg
+For a composite key in DB with 2 columns combined to a single column how do you handle it in the entity(@Embeded)
+@Validate
+
+method reference
+Collections in java 8
+HashMap implementation in java 8
+checked exceptions and unchecked exceptions
+
+Threads
+Runnable, Callable diff
+How do you return when multiple services are being called by my threads .... (not sure of full question)
+
+
+======= Born Groups
+
+1)  Find duplicate Integers from list using java 8 features
+
+List<Integer> list = Arrays.asList(5,3,2,1,2,3,4,1,2,3,4,1,2,3,1,9,1,2,1,12);
+
+Output = 3,2,1,4
+
+2)  Find all the strings starts with "a"
+
+List<String> list = Arrays.asList("aaaa", "bbbb", "caccc", "adddd", "fffff", "azzzz", "gaaaaa");
+
+output  = "aaaa", "adddd", "azzzz"
+
+Predicates in java 8
+
+@ExceptionHandler
+
+Transactional Management  -- https://www.youtube.com/watch?v=95kxPSbHzVg
+ACID properties
+
+
+===================
+
+ExceptionPropogation  C-B-A . Exception in C how will you handle it in A
+What happens when you create a constructor in finally
+On click of a button millions of records will be donwloaded how you handle DB for performance
+
+Monlith converted to Microservice
+How exceptions handled in your springboot project
+Load balancer in your micoservice
+Communication between microservices
+
+
+==================synechron
+
+stub design
+Where do you use API gateway
+Large scale flow for getting stock data using api, business logic, ANd persisiting data (High volume of stock data is being received how will u receive)
+Asynchronous programming in microservice
+micorservices design pattern
+saga design pattern
+api gateway
+circuit breaker
+timeout during a transaction what is the solution , not exception to be thrown but business solutions to solve it quickly (frameworks check for this solution) . 
+Transactional management in springboot  -- https://www.youtube.com/watch?v=95kxPSbHzVg
+Modules of springboot you are using
+java 1.8
+Functional programming
+How functional programming achieved in java8
+stream chaining
+
+
+===============Brillio
+
+Immutability
+What is the reason java introduced immutability for which security sevice ??? less information available online
+ways to create a bean
+Testing springboot application in local environment
+How do you delete a rest service that is stateless
+How do you delete a rest service that is caching on another service
+
+SQL :
+Some question related with empoyee table and cascading ~~ not fully got 
+
+Stream programs :
+Reverse a string using streams
+Find prime number 1 to 1000 program
+Find Prime 1 to 100 an sort it program
+I have invested in a share market where every day SHare prices will be differing . I have to buy when it is on the lowest and sell
+when it is on the largest to attain Maximum profit in a day. Write a code for this program
+
+
+================== Core Logic
+
+@getMapping , @RequestMapping diff
+Dependency Injection and IOC difference
+CI/CD pipeline
+program
+Linkedlist: 1->2->3->4->5->6
+Pointer is at node 4. Remove this current node.
+Output -> 1->2->3->5->6
+
+FeignClient
+
+program:
+
+Mohammad Parvej15:52
+Given an array of N integers, and an integer K, find the number of pairs of elements in the array whose sum is equal to K.
+Input  :  arr[] = {1, 5, 7, -1}, 
+          sum = 6
+Output :  2
+Pairs with sum 6 are (1, 5) and (7, -1)
+
+
+
+=======
+
+types of stream
+@transaction is used for get or post or which
+Steps to connect 2 different microservices
+
+
+====
+
+
+even odd in lambda expression
+
+
+Data lakes , data bricks
+Template configuration , ARM template configuration
+IAAC
+rest and restful
+IOC container and dependency injection
+CI/CD pipeline and production release
+
+
+monjin===============
+
+SOLID principles
+
+Javascript
+
+clojure
+event propogation something question
+memoization
+
+
+Azure
+Resource manager
+role-instance
+
+
+======== Mphasis
+microservice
+Eureka default port
+Saga pattern
+
+Custom exeption class in springboot
+@ControllerAdvice
+error codes
+
+java8
+terminal operation
+memory level improvement in java 8
+
+Java
+Contract between hashcode and equals
+wait and sleep diff in lock levels
+String why immutable - what happens if it can be mutable
+return list of Employee value in an immutable class
+custom immutable class
+
+
+============ Boing
+
+microservice pattern 
+If your sevices are benhind Eurekha , what happens if there is a single point failure then entire redirection fails
+API gateway , what are the configurations you can use there
+How gateway communicates with services
+How you will configure your services to eurekha . When you communicate from a service to eurekha, how internally it communicates and what are the 
+configurations you do on micorservice level and eurekha level
+Saga Design patterns
+
+
+Java design pattern - Factory
+Optimise a call which takes 30 sec, reduce the time only using  Database what will you do
+Api call optimisation in backend and front end how you will do it
+
+azure
+
+create new reource how you add database to it
+contaiiners image how to configure
+pipelines in docker how is it diff from pipelines with jenkins and tell its configuration
+what additional checks or anlaysis you will add in pipeline and how
+
+
+===========
+
+how do you build rest service from scratch
+What are the components of react
+build pipeline
+autosclae
+performance improvement
+
+SQL
+left out join and right outer join
+functions like rank in sql
+
+EPAM interview by hari  ============
+
+Experience on solution architect, and what followed ?
+functional requirements (scalable, security) - how to achieve ?   how security is handled for your system
+Database model used in project
+how many databases used, related to BOM
+how u handle database read, write if no cache system involved,
+
+IBS interview by hari  ============
+
+How to defend a spring configuration from loading
+how to use other containers in spring boot (not just tomcat)
+how to handle huge volume of connections from service to a database
+design pattern
+singleton pattern - thread safe
+Mock and Inject
+Before, BeforeClass, After in junit
+Autowire types
+Controller & RestController
+Entity generation types
+saga pattern
+choreography and orchestration in saga
+circuit breaker
+api gateway - threshold, throttle, proxy
+For TCL,  they given some program to do from scratch
+i choose one its simple only:    Create REST api to save a array of object as json   [ {"name" : "Person 1", "marks" : 40},  {"name" : "Person 2", "marks" : 50} ]
+
+ 
+ 
+ epam 2nd round interview by hari  ============
+ 
+ In and out of microservices 
+
+NPCI interview by hari  ============
+what are the AOP advice
+Spring AOP
+Difference between business capability and sub domain decomposition strategy. Not getting what they really explain since both looks similar
+ A 10 storied building, having two lifts. Find the optimal position for the lift idle, 
+ so that it can be reached users request from any floorsimilarly how u determine, if it is 40 storied and 4 lifts
+
+HomeLane interview by hari  ============
+Cyclic barrier
+Countdown latch
+Completable future
+Saga choreography pattern
+Event driven architecture
+progra to get Character count in a string
+Asked for search api for make my trip
+
+
+other interview questions by hari ============
+
+Cooldown period and health check grace period difference
+ACID vs BASE model
+For Redis minimum number of nodes required
+Spring scopes
+How u choose sql vs nosql databases
+Ec2 instances types
+Not just spontaneous or standard. Other types for computation, memory optimized,  storage optimised
+How u find memory issues in production deployments. Particularly on which micro service has memory issues
+Isolation levels in transactions
+How u solve if two requests try to block the same seat (say in a theatre only one seat is available)
+Delete duplicate rows from a table that doesn't have a primary key
+ webserver, virtual proxy config will have the certs for port 443
+
+============trianz second round hari
+
+
+Mostly about microsevices
+Completeablefuture
+Improvements on java 8 hashmap
+Log4j vulnerability -https://www.youtube.com/watch?v=uyq8yxWO1ls
+How to increase performance in ur application
+How to avoid sql injection
+Http and event message communication
+How aws lambda works
+Then mostly about my project. My experience in devops and CICD
+Java8 streams
+How map is implemented in java 8 streams
+Security in spring application
+java 8 interfaces : 
+ interface Function
+ Supplier
+ Consumer
+ Predicate
+ 
+ 
+ 
+ ============HiyaMee  - Deutsche Bank=============
+ 
+ 
+ Micorservcies 
+ What are the patterns you are using in micorservices
+ Gateway pattern , Saga pattern
+ write controller, service and repo to persist a user data to DB
+ How do you configure 2 databases to your service
+ @Restcontroller, @Controller difference
+ Java 8
+ Difference b/w filter and collect
+ what are java8 fucntionalities you use in your project
+ Query optimisations you do in your project
+
+
+
+-===============\
+
+what is options in postman request
+
+what is a cors request
+
+whiy is options for requestw which are ebyond server to server
+
+what is cross of fierwall
+
+JWT generated using ping federation . Signing public and private keys
+-- signature and others gives comes all of that with the jwt
+-- tranform  header during sending
+
+We validate jwt token infront and bE even before calling this RC
+
+crulmrosb01.rockwellcollins.com:8090
+ -- teja
+ 
+ wether if the authentication is with basic or JWT
+ 
+ 
+ ===========React Research ==============
+ 
+ rendering in react
+ https://www.geeksforgeeks.org/explain-the-purpose-of-render-in-reactjs/
+ 
+ bind , arrow
+ map, forEach difference
+ useRef
+ const , let difference
+ 
+ 
+ ============7 -Eleven==========
+ 
+ overloading,overrriding
+ diff ways to create object
+ A - B extended . Now a method in B throws error different from the method overrided in A . What exception will come -- https://www.geeksforgeeks.org/exception-handling-with-method-overriding-in-java/
+ default method in java 8 and its uses . How is it different from abstract classes. How  diamond problem is avoided here
+ Threads
+ how to make thread 1,2,3 not pick up value before 4,5 without join
+ Wait and sleep difference
+ What is a lock
+ Locks and different locks
+ Collections :
+ Set and map difference
+ What is red black tree
+ Reentrant lock
+ When you load a class if it is not available, you should load the next class . How will you do it.
+ Synchronisation , synchronised lock
+ Java Design Pattern
+ Springboot:
+ What will happen when you declare the bean scope as prototype instead of singleton in your springboot
+ 
+ Micorservices:
+ Saga , aggregator patterns  -- https://www.google.com/search?q=what+is+saga+design+pattern+in+microservices&rlz=1C1GCEA_enIN922IN922&oq=what+is+saga+design+pattern+in+m&aqs=chrome.0.0i512j69i57j0i390l4.4226j0j7&sourceid=chrome&ie=UTF-8
+ How do you handle a distributed transaction in microservices
+ 
+ Singleton, prototype
+ Program :
+ // sum of elements should return the target  
+ 
+ QuinBay  ====
+ 
+ 2 dimensional array . Find the row with maximum number of 1's
+ How do you make DB calls to backend from the application when table size grows . How do you keep the calls faster, Make change without
+	cache in java or in DB .  --https://stackoverflow.com/questions/34717787/mysql-handle-table-size-and-performance
+	
+What will you do if your web service is down -- circuit breaker pattern
+How will you debug memory issues, how do you solve
+Handling exception
+What will you return if a service is unresponsive   -- stub
+How u handle if u get out of memory exception in java prod code  --https://stackoverflow.com/questions/5984750/debugging-a-strange-memory-leak-java-tomcat
+How to avoid repeated number of DB calls
+Create a new web service
+
+======== Digi Sprint =======
+
+
+DockerImage how to create
+SpringBooot profiling, how your specific profile is being called among the multiple profiles
+If you dont specify any profile . How is it being called, what will be called
+How do you improve performance of your API.
+CRED Store. How is it being used
+Disadvantages of Autowiring  -- https://stackoverflow.com/questions/24996042/limitations-of-autowiring
+How Autoconfiguration can be disable for list of files, other than annotation.
+Validate a request before controller - not validator class . Then how
+Why mysql why nosql in ur project
+Interceptors, webFilters
+Spring Security
+How do you create a spring schedular class (CRON job) syntax
+Enabling @transaction
+Load test -- jmeter
+Which MQ you use
+Reading from the RabbitMQ, how do you do it.
+What happens when the service handling the MQ is restarted or down. Will requests be lost ?
+
+
+=========All State ===========
+
+React $$$
+
+Diff ways of declaring a state and props in react -- this.state.Name ="Ganesh" -- Is it possible, yes
+Arrow functions in react;
+Lifecycle components order or execution
+state and props
+Fucntional component over class level component . Why go for funct comp
+diff react, angular
+
+
+Java $$$
+Service to service call how do you do
+CORS issue what is it - why cors comes, how to avoid it
+Pipelines being maintained tools used for that
+Streams - intermediate & terminal operation
+
+============company==
+
+Java - 
+why strings are immutable, reason
+synchronise 3 threads
+
+sprintboot --
+How springboot autowires a bean for you when you overload your constructor. How to create the bean with expected constructor
+@valid , @filter, @order many other @ on top of requests and objects
+ways to add dependencies in sprintboot
+Design patterns used in sprintboot
+
+Design patterns
+
+program --
+fibonacci
+
+mysql 
+stored procedure
+index
+How index helps in database, how to create it.
+
+
+==========Mphais=============
+
+[4:14 PM] Srikanth MR
+    2
+2 4
+2 4 6
+2 4 6 8
+2 4 6 8 10
+​[4:21 PM] Srikanth MR
+
+    List<String> str = new ArrayList<Srting>();
+str.add("A");
+str.add("A");
+str.add("B");
+str.add("C");
+str.add("C");
+
+print these programs
+
+//
+//        Set set = new HashSet<>();
+//        set.addAll(str);
+//        str.removeAll(str);
+//        str.addAll(set);
+//        //set = (Set) str;
+//        System.out.println(Arrays.toString(str.toArray()));
+
+        System.out.println(Arrays.toString(str.stream().distinct().collect(Collectors.toList()).toArray()));
+
+//        k,v;
+
+        Map<String,String> map = new HashMap();
+
+        map.put("one","1");
+
+        map.put("two","2");
+
+        map.put("three","3");
+
+        map.put("four","4");
+
+        for (String num: map.keySet()) {
+            System.out.println(num);
+        }
+
+
+        for (String num: map.values()) {
+            System.out.println(num);
+        }
+
+
+How your microservice is interacting with each other.
+Works you do in front end
+
+==========Capgemini==========
+
+
+@functionInterface
+interface myInterface{
+
+public int myMethod(T a, T b);
+
+}
+
+
+
+Predicate<Integer> predicate = a => (a%2 == 0);
+
+
+System.out.println(predicate.test(7));
+
+MyInterface myMethod = ((a,b) => a+b)
+
+myMethod(2,4).andThen
+
+myMethod(2,4).orElse
+
+reduce , skip functionalities in fucntional interface
+
+Design pattern - decorator pattern
+
+SOLID pinciples for creating micorservices
+
+12 factors for creating microservices
+
+Gateway and how oAuth is implemented in your gateway
+
+young memory , old memory
+
+Why finally and static removed in Java 8
+Docker and how you use in your project 
+DDD pattern in microservice
+Public key and private key in oauth
+What is secret key in oauth
+How do you keep secret key in oauth
+Syntax func interface
+a,b pass as values with type as T and return the addition of a+b as the output 
+Use predicate as functional interface 
+Try with resource
+Read , write complexities of all Data Structures
+Difference springboot ver. 1 and 2
+Encryption and encoding difference
+
+Answered
+Runtime, compile time polymorphism
+
+Metaspace, permgen 
+
+
+==================== ACL-======
+
+A-B-C what to test before getting it to production.
+A gets Data from C through B how to test
+How to test load testing
+
+
+Database table indexing what is indexing
+When table records grow how to handle so that it not afects performance
+How to aplyt indexing to a table column, how it helps in performance improvements
+How to make a method sychronise when requests are coming  in using which annotation
+@qualifier
+@synchronise
+How to kill deadlock in database
+Permformance improvement when table size grows
+if u have 3 static blocks in which order will they be executed
+
+=====================
+
+Java streams .
+Write a program using streams to find the maximum salary of an employee in one particular department
+Program  to find the middle element of a linked list
+Streams example problem
+Indexing in database (when table size grows and user is facing a lot of time , how will you improve performance)
+After doing indexing also the row wise searching is happening for all the rows if indexing is not applied . How will you solve it
+How do you make asycnhronous calls - in  need to know little more
+default response , how will you send the default response . Will it be with a message
+
+
+Answred:
+How to Avoid deadlocks in thread. Reasons for deadlock
+circuit breaker pattern
+============mphasis===============
+java 8
+Method reference operator
+Can it be used only for static variables or methods
+What and all can we access using method reference
+What are the fucntional interfaces usd in your project
+Employee object with id, fname ,lname. How do you put it in a list with fname lname using streams
+syntax for this
+which do you use along with stream . Map or filter or forEach why .
+what are the 2 paramters of a map inside stream
+Is optional a class or interface
+
+What will be the return type of the stream during adding conditions
+Cnditions within stream , filtering data within stream
+functional interface chaining , adding conditions like only id with even number should be added to the list
+how do you use stream to
+Execption handling in java . what happens if a service throws a checked exception
+Exception , error difference
+
+Microservice
+Design pattern in microservice
+Circuit breaker pattern - what is the use of it can it be used against DDOS attack
+
+
+
+=============perficient==========================
+All annotations used in springboot
+@JsonIgnore
+@requestParam , @pathvariable difference 
+@Requestmapping attributes
+@qualifier
+How to access url values && , ? and number (com.method/1=5&&3=4 . how to get the values after &&)
+How to handle multiple database withing project
+1st dao  by default should store value in 1st database . But for 2nd dao it shuold store in 2 nd database - @qualifier can be used here
+
+
+Easy :
+Arraylist/linkedlist
+Hashmap
+Can key /value be duplicate in hashmap . What happens if you add a duplicate key to a hashmap & duplicate value to a hashmap
+What if 2 keys have same hashcode . Will your hashmap throw collision -- no the second key will be added to the bucket as well in liked list format.
+
+questions :
+internal code of redblack tree in java
+
+
+
+
+LDA MindTree ---------------
+
+    list.stream().filter().forEach().map().collect() . Will this work .
+	what are the types of streams
+	What are the arguments inside filter and map in a stream
+	What is predicate
+	what is the method inside predicate.
+	What are the types in Fucntion package in java.
+	Design patterns . Any design patterns you worked on.
+	bootstrap.yml in springboot
+	How do you implement circuitbreaker in springboot , what are the annotation used for it
+	What is the dependency you use for enabling circuit breaker
+	Patterns used in microservices.
+	Saga design pattern
+	What are solid principles
+	Explain one of the solid principle
+	How to find how many beans are running in your current system.
+
+===========Toshiba=============
+Java Fully ----
+
+Microservices :
+What to keep in mind while designing microservies
+What does gateway does
+Service registery
+
+Program : cash counter - Find minimum number of notes
+Design patterns for the cash counter application 
+How @transactional works internally . How it roll backs 3, if 3 out of 4 is successful
+What is red black tree
+I have 4 thread t1,t2,t3 shoudl run parallely but t4 should start after t1 only 
+COuntdown latch count down barrier
+
+
+===============Gusup=======
+
+LRU cache java program
+Why streams are used instead of traditional iterator . what is the use of it.
+How many instances your application runs in production.Is your sql instace also runs azure.
+How do you create ci/cd pipleline with kubernates.
+memcachec or other caches in backend you have worked on.
+Have you worked in kafka. How you application works asycnhronously with kafka.
+
+========================
+let and var
+modify value of a prop
+map and flatmap
+how to get 3rd largest values using stream in java
+@qualifier
+difference yield and sleep()
+
+
+============
+
+syntax of streams to convert Hashset to list
+sql query to get the employee with 3rd hihest salaary
+Write algorithm for saga design pattern in microservice
+Why @repository annotation is needed
+rate limiter how will you implement
+What is the famous actuator . And how will you implement in java
+implement circuit breaker and fallback mechanism -- what are 3 phases - closed,half-open and open
+Your data is being sent to azure
+Functional Interafaces how many abstract it has . What condition it has to have to be a functional interface
+Algorithm for saga pattern 
+choreography pattern
+messsage broker/post-gap , not clear ???
+mysql query to get count of employees
+my http request get request usully takes 50ms now takes 1 sec . How will you debug to see the issue
+Improve perfomance of API
+
+
+=============
+
+File with crores and crores of data , how will you read and persist to Database using java.
+production server has null pointer exception not reproducing in local server
+a value is showing old data might be due to thread not updating . How to make sure all threads are running --yield
+For the http request you get 500 internal server issue . How will you debug 
+Counterlatch . How is it used to achieve to make 3  thread run parallely and t4 run after all 3 are finished
+Improve perfomance of API
+2:26 PM] Kumar, Kishok
+    public class InterviewbitProblem{​​
+  public static void main(String[] args) {​​
+      Integer num1 = 999, num2 = 999; 
+     System.out.println(num1 == num2);
+      Integer num3 = 19, num4 = 19; 
+     System.out.println(num3 == num4);
+  }​​
+}​​
+​[12:29 PM] Kumar, Kishok
+    public class InterviewbitTest {​​
+  private static int counter = 0;
+  void InterviewbitTest() {​​
+      counter = 20;
+  }​​
+  InterviewbitTest(int x){​​
+      counter = x;
+  }​​
+  public static void main(String[] args) {​​
+      InterviewbitTest interviewbitTest = new InterviewbitTest();
+      System.out.println(counter);
+  }​​
+}​​
+​[12:31 PM] Kumar, Kishok
+    public class SampleClass {​​
+public static void main(String[] args) {​​
+    sampleMethod(null);
+}​​
+public static void sampleMethod(Object o) {​​
+System.out.println("Object method result");
+}​​
+public static void sampleMethod(String s) {​​
+System.out.println("String method result");
+}​​
+}​​
+
+
+=====================
+.)-----------
+	Find length of a string using java.util.Functions	
+	What is Executable service 
+	Completable Future
+	Exception , Error
+.)-----------
+//Write a java program to sort List based on the max occurrences. ?
+//        Input = {1, 2, 1, 3, 3, 1, 4, 5}
+//        Output = {1, 1, 1, 3, 3, 2, 4, 5}
+
+.)-----------
+Java program to print series
+
+//               1
+//              121
+//             12321
+//            1234321
+//           123454321
+
+		
+		
+.)-----------
+//Write a java program to sort employee list based on employee name and active employeees
+//        Employee
+//        -------
+//        EX: name  status
+//        B     Active
+//        A     In Active
+//        C     Active
+//        E     Active
+//        D     In active
+//        F     Active
+
+//
+//o/p
+//        ----
+//        B  Active
+//        C  Active
+//        E  Active
+//        F  Active
+//        A  In Active
+//        D  In Active
+        //hashmap linkedhashmap
+		
+		//Note : Keep a list of employee object and sort them based on employee name and employee status
+		
+		
+.)-----------
+--Table Employee
+
+empId, name
+--------------------
+1 | abcd
+2 | jklm
+3 | lmno
+4 | pqrs
+
+--Table Bonus
+empId | Bonus Year | bonus
+---------------------------------------------------------------
+1 | 2014 | 1000
+2 | 2014 | 800
+3 | 2014 | 200
+4 | 2014 | 600
+1 | 2015 | 600
+2 | 2015 | 500
+3 | 2015 | 400
+4 | 2015 | 300
+
+
+--Query Output
+
+Find empId, name,bonus of employees who received more than 1,000 in bonuses for the years of 2014 and 15.
+
+empId, name bonus
+----------------------------
+1 abcd | 1600
+2 jklm | 1200
+
+
+.)---------Write a SQL query to get the third-highest salary of an employee from employee_table? --  select * from employee DESC Salary get row_no
+
+.)---------
+
+try{
+return 1}
+catch(){
+return 2 
+}
+
+finally{
+return 3}
+
+   ----ans  return 3 . Finally will always be called even when returned from try . 1 wil not be returned as compiler can have only 1 return
+
+
+
+   
+
+====
+
+
+How to configure your tomcat server to your datasource
+Where will your configuration(application.properties) file sit at within war file or outside the war file.
+How do you add the war file to your tomcat
+How jpa works internally
+How to get data from jpa
+How will you add war file to tomcat server
+
+encoding and encryption difference
+
+
+
+  A B  id column is common  -- 
+
+--- ans  select a.* from table A a join B b ON a.id = b.id 
+=======
+
+Difference HashMap and LinkedHashMap
+
+HashMap and concurrent hashmap difference
+
+Java 8 problems practise more on it . Use java 8 api's regularly in problem solving .
+
+Learn Optional , which stream  returns optional . 
+
+What are the functional interfaces in java 8 
+
+How do you communicate with rest call to outer 3rd party api's. How with internal components
+
+what are the methods you use to make a rest call
+
+How do you make your repositories in hierarchy local , central and maven repository
+
+
+
+
+=========== Wave Labs
+known :
+ Java
+How do you design a microservice if it received huge number of load . 
+How do you autoscale
+How do you ensure security between services
+
+
+Microservices --
+
+Patterns you used
+Service discovery
+Service Discovery
+
+
+Unknown:
+
+Springboot --
+@qualifier , @primary
+
+CompletableFuture where is it used in your project
+
+Employee table
+
+-- id   name age salary
+
+select * from Employee e where e.age > 15 && e.age < 50
+
+Select * from Employee OrderBy Salary DESC where rownum = 2
+
+List<Employee> list  // e.age > 15 && e.age < 50
+
+
+list.stream().filter(i-> i.age >15 && i.age<50).collect(Collections.toList());
+
+//Get employee with 2nd highest salary 
+list.stream().forEach(i-> )
+val = i>val 
+
+
+sort in java 8 stream  -- java program
+
+input:[1,2,3,4,5]
+output:[1,3,6,10,15]
+
+=======================harman============
+
+
+//write program for singleton design pattern
+
+//
+
+//convert map to list using streams
+
+
+
+
+ Problems ====
+ 
+ https://leetcode.com/problems/trapping-rain-water/
+ https://leetcode.com/problems/palindrome-number/
+ https://leetcode.com/problems/valid-parentheses/
+ https://leetcode.com/problems/maximum-subarray/
+ https://leetcode.com/problems/count-primes/
+ 
+ ========== Research Materials
+ ========== Research Materials
+ 
+ 
+ 
+ Map and forEach diffrenece when used inside return
+ 
+ Predicate-https://www.youtube.com/watch?v=aXXpNfDzS3c
+ 
+ method chainging can be used for anything other than predicates ?
+ 
+ Function Interface in Java
+ 
+ Functional programming difference from OOPS -- https://www.infoworld.com/article/3314640/functional-programming-for-java-developers-part-1.html#:~:text=Functional%20programming%20is%20a%20programming,are%20evaluated%20in%20expression%20contexts.
+ 
+ Java Intermediate - 
+ 
+ AutoConfiguration springboot - https://www.youtube.com/watch?v=ECdMrvoHsXU  -https://www.youtube.com/watch?v=J_kTukE7hr8
+ 
+ predicate  --https://www.youtube.com/watch?v=Tapz6_T5oHY
+ 
+ method chaining in java
+
+why use optional in java8  - https://softwareengineering.stackexchange.com/questions/364211/why-use-optional-in-java-8-instead-of-traditional-null-pointer-checks 
+	(ofNullable,of)					   --https://www.oracle.com/technical-resources/articles/java/java8-optional.html
+
+Function chaining java 8  -- https://javadevcentral.com/function-chaining-in-java
+
+chaining streams in java8	--
+
+predicate chaining in java8 --  https://javadevcentral.com/predicate-chaining-in-java
+
+flatmap and map  -- https://www.youtube.com/watch?v=CwvlS3ViGFQ
+
+Java 8 Stream intermediate and terminal operations  -- https://www.youtube.com/watch?v=7J0XR46f4sg
+methods returingin Stream<something> is intermediate , methods returning primitive(int,long..) are terminal
+
+https://log2base2.com/
+
+forEach and Map difference -- https://stackoverflow.com/questions/354909/is-there-a-difference-between-foreach-and-map#:~:text=The%20important%20difference%20between%20them,an%20action%20for%20each%20element.
+
+Functional interface chaining andThen, compose, orThen  in java 8 --
+
+Lambda Expression  --  https://www.geeksforgeeks.org/lambda-expressions-java-8/
+
+Stateless different from stateful in springboot -- https://www.codesandnotes.be/2017/11/17/from-stateful-to-stateless-restful-security-using-spring-and-jwts-part-6-should-i-go-stateless/
+
+getmapping and requestmapping difference  --
+@GetMapping is a composed annotation that acts as a shortcut for @RequestMapping(method = RequestMethod.GET).
+
+ @Documented -- https://docs.oracle.com/javase/tutorial/java/annotations/predefined.html
+ 
+ @Target
+
+method reference operator :: java8  -- https://mkyong.com/java8/java-8-method-references-double-colon-operator/
+
+Exception handling in springboot with annotations -- https://www.youtube.com/watch?v=2o7LJLTIgdE
+													https://www.youtube.com/watch?v=gPnd-hzM_6A
+													
+@ControllerAdvice, @ExceptionHandler, @NotNUll, @Pattern, @Email, @Valid	  -- https://www.youtube.com/watch?v=gPnd-hzM_6A	
+
+@ResponseStatus											
+
+@EnableTranasaction, @Transactional  					 -- https://www.youtube.com/watch?v=95kxPSbHzVg
+
+@ControllerAdvice, @REstControllerAdvice, @ResponseBody  -- https://www.youtube.com/watch?v=95kxPSbHzVg  wrong link 
+															@REstControllerAdvice - combination of @ControllerAdvice and @ResponseBody
+
+@RestController vs @Controller   -- https://www.youtube.com/watch?v=RrE9qpCxdD4
+									@RestController - combination of @Controller and @ResponseBody
+
+@controller, @component, @service, @Repository  -- https://stackoverflow.com/questions/6827752/whats-the-difference-between-component-repository-service-annotations-in
+
+@RequestMapping and @ResponseBody -- what happens if we didnt give them 
+
+Callable and Future  --https://www.youtube.com/watch?v=ysP07P_B88w
+
+CompletableFuture, executors  --https://www.youtube.com/watch?v=GJ5Tx43q6KM
+
+why controller advce is needed ? when exceptionHandler class is there
+
+Recursion logic , Climbing Stairs recursion
+
+Time complexities of HashSet, HashMap and other data structures
+
+CompletableFuture.allOf
+
+My project springboot version , jaxrs version used ?
+
+
+@CrossOrigin
+
+why we need preflight requests
+
+Junit , latest junits used in project  -- https://www.youtube.com/watch?v=kXhYu939_5s
+
+powerMock  --https://www.youtube.com/watch?v=WBZHm4UlPPE
+
+join  --- https://www.youtube.com/watch?v=Ev2rH5qu_-8
+
+How do you configure 2 databases to your service  -- https://www.youtube.com/watch?v=iDogrHEo4x0&t=618s
+
+SAGA  -- https://www.youtube.com/watch?v=WnZ7IcaN_JA
+
+@Transaction  --https://www.youtube.com/watch?v=95kxPSbHzVg&t=1582s
+
+Cross Service transaction
+
+Expressions and statements difference
+
+Springboot version I use 2.3.4
+
+JAXrs version being used in your project - 2.0
+
+A - B extended . Now a method in B throws error different from the method overrided in A . What exception will come -- https://www.geeksforgeeks.org/exception-handling-with-method-overriding-in-java/
+
+Configure 2 database --https://stackoverflow.com/questions/30337582/spring-boot-configure-and-use-two-data-sources , https://www.baeldung.com/spring-data-jpa-multiple-databases
+
+ACID in micorservice  -- https://agniveshverma.medium.com/microservices-distributed-transaction-management-part-1-573d701a264e#:~:text=ACID%20properties%20in%20the%20database,doesn't%20happen%20at%20all.
+
+@transient, @volatile
+
+
+stateful and stateless
+https://www.interviewbit.com/blog/stateful-vs-stateless/#:~:text=An%20example%20of%20stateful%20is,the%20data%20transfer%20takes%20place.
+https://www.youtube.com/watch?v=nFPzI_Qg3FU&t=222s
+
+
+Saving and reusing in a stateful BE call
+
+3 different ways to get started in spring boot?  -- https://docs.spring.io/spring-boot/docs/current/reference/html/getting-started.html
+spring run className , running from sprinbootApp main class, java -jar
+
+
+Streams -- https://www.javatpoint.com/java-8-stream
+
+https://gist.github.com/cangoal/aedd1ed7b9d5b7e2001f#file-meetingrooms-java-L5
+
+closure in javascript --
+https://qr.ae/pv0G64
+
+useRef
+
+Rendering from the props
+
+
+-- indeterminate in useRef
+
+React.PureComponent 
+
+sql query questions asking queries for a scenario
+
+HOC ??
+
+1275 =
+int  val = 1
+1275%10 = 5*val = 5
+val = val*10
+1275/10 = 127
+
+ 127%10 = 7*val = 70 = 50+20
+val = val*10 //100
+127/10  = 12
+12 %10 = 2 *val = 200  = 100*2
+
+1000 = 500*2
+
+
+number of currency = 1,2,5,10,20,50,100,500
+
+
+------------Archi
+
+scheduler -- batch.  -- 
+
+kafka, eclise ditto , mqtt broker, eclipse stream sheet
+
+ mqtt broker -- snmp  -- 
+ 
+ eclise ditto -- for persisting
+ 
+ GN public license
+ 
+ mit license  -- private repo
+ 
+ microservice communi , discovery , heart beat , batch , load balancer - reverse proxy. 
+ 
+ docker to application communication.
+ 
+ 
+ cart appli cation - crud operation in cart -- cart service - Hearbeat , nosql , service discovery , events , kafka , load balancer , event based communication.
+
+---------------------------
+
+-----------Blankfactor
+
+
+write AWS script how will you handle for a request sending to webServer and and returning back with a 401 response
+
+How do you achieve asynchronous communication in your application
+
+How do you achieve asynchronous in restTemplate
+
+Creational design pattern
+
+Stream pipelining
+
+disadvantages of @Autowired
+
+how to remove a class from autoconfiguration
+
+how you call your restTemplate in your application . Better optimised way than getForObject
+
+@Before and @BeforeClass in junit
+
+Best practises of junit
+
+Why do you want statelessness
+
+MetaSpace and PermGen difference
+
+@Asynch
+
+known :
+Diff collection and Streams
+
+
+programs :
+make concetanation of 2 Streams
+
+Code for prime factorisation
+
+Output : 
+12 - should be returned {2,2,3}
+
+315 - {3,3,5,7}
+
+==============
+
+
+what is ngnix ?
+
+https://www.youtube.com/watch?v=irBEdp7XlSQ&list=PLVz2XdJiJQxz3L2Onpxbel6r72IDdWrJh
+
+Eureka serever --
+
+https://www.youtube.com/watch?v=yKZVdkrTBTg
+
+https://www.youtube.com/watch?v=1uNo1NrqsX4
+
+https://www.youtube.com/watch?v=irBEdp7XlSQ&list=PLVz2XdJiJQxz3L2Onpxbel6r72IDdWrJh
+
+
+
+------------------- EPAM ----------
+
+SOlid principles
+
+
+
+----------------------------------------
+
+Saga design pattern
+
+Implement comparator using java 8 
+
+nth highest slaary of an employee
+
+select * from employee where salary in (select * from employee order by salary DESC limit 3) order by ASC limit 1; //rownum
+
+Java programs
+
+//        String str="ABC12D0E34F04";
+//        can you sum all numbers
+
+//find all possible Subarray with given sum
+//        Input: arr[] = {1, 4, 0, 2, 3, 10, 5}, sum = 7  // 0,1,2,3,4,5,10
+//        possible o/p : [4,3],[1,4,2],[5,2] [0,4,2,1]etc...
+
+
+
+============================
+
+
+kafka -- why kafka , how kafka is used in your project
+
+How do you approach if application is slow
+
+how to maintain same order in parallel streams
+
+implement circuit breaker
+
+DDL , DML commands in sql , joins
+
+
+
+=============
+
+kafka -- kafka consumer , how do you read your object from kafka consumer
+how do you handle errors in kafka
+how do you read objects from kafka
+How kafka implemented by kafka consumer or kafka client
+communication between microservices using kafka
+
+used things in aws -- service registry used in aws elastic service
+how eureka sevrer implemented in your cloud project
+how to configure in springcloud api gateway
+How eureka server is configured to springcloud gateway in your cloud project
+
+
+kubernates in cloud . How to add nodes and configure it.
+operations in kubernates cloud
+how to configure in yml for kubernates
+
+in OAuth2 . what are the scopes in your authentication sevrers, use of client key and secret key , where will you have it in frontend and where will you have it 
+in backend. 
+resource server and how communication between resource server and authentication server happnes . How resource server communicates to your micriservice
+How resource server reads client information
+
+
+write code for completable future using @Asynch and get the values do runAsAsynch and all the opertations make a service call . Get final result with .get
+What object will it return back. How do you convert it to your desired object
+
+what are the relations you can add in the below tables (groupBy query, join , ManyToOne can be used . See the syntax)
+
+eks , sqs , e3s - kafka
+
+
+===============================
+
+
+=--------------------------------------------------- EY  ------------------------------------------
+
+
+
+DB
+
+Threads
+
+Java 8
+
+Microservices
+
+Kafka
+
+
+
+Executors , completable future difference
+
+why need a future object as a return type.
+
+Where Will you  pass the future
+
+Spring security features used in your gateway
+
+why rest client and feign client deprecated in sprinboot 3
+
+How do you use oauth2 to verify token received is correct ?
+
+kubernates eks instance on aws
+
+how is kafka handling when one of request fails at the user end
+
+Other datastructures which gives concurrent modition exception and how to solve it
+
+
+Indexing - how to achieve on non unique columns . Can it be achieved? 
+types of indexing used in db
+
+clustered index and non clustered index
+
+20k get calls hitting your db how do you maintain consistency in this scenario
+
+ACID property in DB
+
+
+easy :
+
+row num in DB
+
+
+
+java 8 program --
+//Map
+// A: 1
+//B:3
+//c:2
+//D:5 
+
+Iterate this map based in the integer values in val using java 8
+
+
+
+----------------------------------Go-Digit-----------------------------
+
+
+
+
+Predicate code
+
+SAGA deesign pattern full flow
+
+How to roll back transaction when one fails
+
+@transactional code
+
+multiple databases -- write code
+
+Design full project flow
+
+oauth how is it designed , how it is validated at end interfaces
+
+eureka server -- write code
+
+how to switch from one database to other without changing code
+
+write code for repository and connect it with database write code
+
+How do you give access to app to upload file. How are you handling it
+
+easy :
+
+immutable class
+executors
+thread pool
+
+
+
+-------------------Indegene------------------------
+
+
+write java code to upload a file to s3 storage in aws
+
+dependency and file upload code in springboot for s3 
+
+kubernates eks how to deploy images into it in aws
+
+java 11 and java 17 features
+
+Database  - dataware housing operations
+
+Access AWS without access key and secret key
+
+-------------------------------------------------------------
+    
+    //Question.  
+	//Need to generate the Fruits name and No of times it occurs in the list 
+	// using the stream api's, where name begins with a or o.
+	// Constraints -- usage of any for loop or foreach is not allowed for this 
+	// Input List 
+			   List<String> fruits  =
+                Arrays.asList(null, "apple", "apple", "banana",
+                        "apple", "orange", "banana", "papaya");
+     //expected  output                   
+    Map<String,Long> countMap ;   
+    
+        fruits.stream().filter(word -> (word.toCharArray()[0]=='a' || word.toCharArray()[0]=='o'))
+        .forEach(x-> map.putIfAbsent(x,1)).collect(Collectors.toMap())
+        
+
+ SQL
+  
+	Department 
+	Dept_id(PK) Dept_name(Unique)
+ 
+	Employee
+	emp_id(PK) emp_name dept_id(FK)
+ 
+	i)write a sql query to find out the dept_name and no of employees in a dept
+	where no of employees are more than  than 10 in a dept
+ 
+	ii) create Bidirectional Mapping , see if there is any One  to Many/Many to One assocaition, 
+	use the proper annotation to establish relation
+
+// Your last Kotlin code is saved below:
+// fun main(vararg args: String) {
+// 	println("Hello")
+// }
+
+
+select deptName , count(*) from Departmant dept_name as deptName inner join Employee group by Department.Dept_id 
+having count(*)>10
+
+
+// // Your last Java code is saved below:
+
+
+
+-------------  TexasAI -----------------
+
+
+Design application to get an array with 1 billion values each array has 25 attributes . 
+Get using ph no . Which architecture will you use for this
+
+end side validation in oauth
+
+will be done in which layer
+
+request validation in springboot
+
+what if some of my endpoints alone need no authentication , some need authentication . How will you handle it
+
+How do you analyse memory issue (heap dump)
+
+if an application fails in production deployment due to memory issue how will yu
+
+mongodb query to get count of phone numbers
+
+I have a wallet with a shared account having 100 rs, multiple users use same waalet for purchase. How to design this by threading 
+will you not allow anyother person when one is doing checkout or what errorms or technique you will handle this
+
+3 databases have 3 repositories , We are calling get from all 3 . When one get fails all 3 has to be rolled back . How will you handle it 
+
+sharding in mongo db
+
+
+
+
+
+
+-------------------Hero Fin corp --------------------------------
+
+
+write jpa for employee and department  , one emp per dept , many employee per department. Add relationship and how do you do binding between tables
+
+how did you setup kubernates in aws what files will you add
+
+docker compose file used for ?
+
+Java 8 programs :
+
+groupby in stream for list of string of names
+
+sql query to join employee and department and group employees by department
+
+=======================
+
+Junits -- ways to mock class , use reflection to create object
+
+https://www.youtube.com/watch?v=HFl2dzhVuUo  -- Microservices using SpringBoot 3.0 - Dailt code buffer
+
+https://www.youtube.com/watch?v=AK6Rf_yjvI0 -- AWS Tutorial For Beginners | AWS Crash Course - Learn AWS In 5 Hours | Java Developer | JavaTechie
+
+https://www.youtube.com/watch?v=3Q8r4zhZ1c0 -- Beyond Sleuth: Exploring Distributed Tracing with Spring Boot 3, Zipkin, and Micrometer!
+
+https://www.youtube.com/watch?v=9XI8lknaJzM&list=PL3NrzZBjk6m_n8QZCdnF7Yax36cqWkO9j&index=2  -- Microservise using java 17 playlist -- Selenium expression
+
+https://www.youtube.com/watch?v=EKoq98KqvrI --  Building an API Gateway in Java with Spring Cloud Gateway
+
+https://www.youtube.com/watch?v=qyAgWL066Vo&list=PLBTZqjSKn0IeKBQDjLmzisazhqQy4iGkb  -- SQL Query Interview question
+
+backgroud apps turn it on 
+
+
+
+=============
+
+Webclient replacement for restTemplate
+
+event processing using kafka
+
+Rabbit MQ &  Kafka to talk between 2 microservices
+
+Spring cloud gateway
+
+Actuators
+
+JPA one to one , one to many
+
+API Gateway used 
+
+Saga implementation
+
+Hystrix circuit Breaker
+
+Docker and Kubernates
+
+Design Pattern write in code
+
+Database query questions
+
+Hibernate
+
+Design pattern
+
+Junit -- Reflection in Junit
+
+Redis Cache
+
+Push notification implementation in springboot
+
+kafka and queueing use of observer pattern
+
+Multithreading
+
+AWS lambda
+
+
+Major ---
+
+java coding leetcode
+
+jaav 8 coding
+
+sql queries
+
+Design patterns  - state design pattern
+
+
+Need to develop  ----
+
+Junit -- topmost
+
+Database
+
+System design
+
+kafka
+
+aws
+
+implementation of above All
+
+Java 8 coding
+
+java coding
+
+
+----------------------------Aspire L2-------------------------
+
+which server ur app runs on
+
+role of nginx
+
+deployment proccess
+
+where your code and images reside
+
+how your microservices are exposed outside
+
+role of apigee
+
+
+----------------Neutara Technologies------------------
+
+
+10 million records , 1 million in my table alone what are the queries you would use to optimise it
+write query for this
+
+how to avoid getting all 1 million records in one shot . How will you get the data better
+
+whole makemytrip seat booking process how to obtain a hold on whole process when your service will be running on multiple instances
+
+why kubernates is being used , advantages
+
+The cluster used in your kubernates
+
+aggregation (?) and isolation in your project ?
+
+-----------------------------------
+
+@Functional
+
+Get common values between the 2 arrays
+int[]  arr ={2,3,4,5,6,3,2};  //i
+int[] arr2 = {7,8,9,10,6,2,3}; //j
+
+Output:
+2,3,6
+
+----------------Wall mart
+
+hashmap implementation
+
+logging which you use
+
+isolation in springboot
+
+locking at database level .
+
+How do you do when you have multiple pods or instances where locking has to be applied
+
+
+----------------Acuity  ----------------
+
+
+Java 8 program:
+
+Emp_id, emp_name, salary, dep_id
+ 
+1		Rajesh		50000	1  //
+2		Gupta		30000	2
+3		Narendra	45000	2
+4		Keshv		20000	1
+
+1. group by dep_id output should  : Map<Integer,List<String>>
+2. sort by dep_id, 2nd sorting by salary
+	
+Java : 
+
+Input : A[] = {1, 5, 9, 7, 1, 9, 4} Output : 2
+subarray {1, 9} has both maximum and minimum value.
+Input : A[] = {2, 2, 2, 2}Output : 1
+2 is both maximum and 
+minimum here.
+
+
+sql query :
+
+
+Emp
+
+Emp_id, emp_name, salary, dep_id
+ 
+1		Rajesh		50000	1
+
+2		Gupta		30000	2
+
+3		Narendra	45000	null
+
+4		Keshv		20000	1
+ 
+Dept
+
+dep_id, dep_name
+
+1		IT
+
+2		CS
+
+
+
+output :
+ 
+1		Rajesh		50000	1 	IT
+
+2		Gupta		30000	2	CS
+
+4		Keshv		20000	1	IT
+
+
+How springboot internally connects your application to your database
+
+How spring starts internally
+
+
+------------------ Samsung ---
+
+Java program :
+
+//Emploee //managerid
+Map<String, String> map = new Hashmap();
+map.put("A","B");
+map.put("C","B");
+map.put("B","D");
+map.put("D","E");
+
+Map<String, List<String>> map
+map.put("B",{A,C});
+//map.put("B","C");
+map.put("D","B");
+map.put("E","D");
+
+1. get count of all employees under a manager
+2. get count of all hierarchy of employees under a manager  eg : E has  D,B,C,A
+
+
+
+how do you migrate from one db to another db . What needs to be kept in mind , it should not affect your production . 
+(write req in both db's)
+aws -- things you use
+what you use for rate limiter
+Full process from giving url to reaching your controller
+Ensure High availability in aws
+
+fully on spring cloud
+
+
+-------------------------Sony----------------------------
+Java program :
+
+Q. Write a Java program to count the number of words in a string using a hash map.
+Input: “This this is is done by Saket Saket”
+Output: {Saket=2, by=1, this=1, This=1, is=2, done=1}
+
+
+High performing trading application , how will you design it
+
+
+
+
+
+--------------------Bosch---------------------------
+
+
+Java program :
+ String s = "ra  d ar" ; 
+ Check if this is a palindrome , that is reverse of this sentence is also true
+ 
+can you perform triggers in jpa -- No
+JPA inbuilt functionality how is it working internally
+Java standard coding practises
+Handle memory leak in application
+Is Spring data JPA a ORM tool -- No
+	It is a system to create "automatic" Data Access Objects (DAOs) for you at compile time, and uses an ORM (like Hibernate) in these DAOs.
+
+-------------------------Sony 2nd round----------------
+
+
+reentrant lock
+
+use of executor service
+
+callable interface in java
+
+properties of hashmap
+
+what is spring cloud
+
+how do you override db configurations rather than adding in yml and letting springboot handle the client code  -- datasource and entityManager
+
+What is the use of entity manager during configuration
+
+override equals and hascode write code in java. Why to override equals when overriding hascode.
+
+comparator classes in java 7 and java 8 
+
+what will happen when you start the thread 2 times.  -- IllegalThreadStateException
+
+what is callable interface
+thread.join()
+
+Assert , assertequals in junit
+how to write test case for void methods in junit.
+
+security manager in aws
+
+ec registry in aws
+
+will oauth bearer token passed as a part of request or payload  -- header
+
+
+how oauth token is validated
+
+connection pooling
+
+default connection pooling in java
+
+Java program :
+
+write java for overrridingc equals and hascode?
+
+Java code to write comparator to compare objects based on employee name
+
+list.stream().sorted(Comparotor.comparing(Employee::getName)).collect(Collectors.toList());
+
+in java springboot how to keep password secure instead of keeping in yaml 
+
+Java program :  
+
+Given Two arrays which are sorted like 
+input1 = {1,3,5} input2 = {2,4,5,6,7,8,9,10}
+
+give me an output array which is merged of input1 and input2
+
+
+list.stream().filter(e -> e.position.equals('manager')).count();
+
+
+list.stream().collect(Collectors.groupingBy(Employee::getPosition),C)
+
+
+----------------------publisis sapient----------------------
+
+
+deployment.yaml file in kubernates
+how do you deploy your application to kubernates
+
+implementing kafka client side code
+
+profiling . How to exclude one part of the code for one profiling environment
+
+time in order of arraylist add()
+
+fail fast and fail safe
+
+comparator and comparable
+
+executor , future code practise 
+
+how to get value from executor or future object
+
+paramters to pass in an executors
+
+adapter desin pattern , Anyone pattern used in your project
+
+@springbootapplication
+
+code for eruka server and client 
+
+code for hystrix
+how will it move from halfclosed to closed state code
+
+oauth2 , where is the bearer token valiates and what is the purpose of resource server
+
+@join in jpa entity
+
+
+---------------------Sony 3rd round -------
+
+
+hardest problem you have faced
+improve performace of your application
+Database migration
+
+java program :
+
+int[] a = {1,3,4,5,3,2,1};
+find duplicates without collection.
+security in aws how you handle
+
+
+---------OPurtune notes  ---------------
+
+nodes in cluster ?
+
+
+what is k8 -devbox ?
+  3 yamls in kubernaes in soringboot ?
+
+port forwarding ?
+strong DM
+
+cluster - kebct config getCOntext
+
+kubectl config use context <name>
+
+
+jenkin job ---
+
+for creatig ec2 instance
+
+monith tool to deploy the war file in ec2instance
+
+
+issue :  -- springboot 3 migration - anonymous user and jwt issue .
+
+kubectl apply command for -- deploymrny in instance
+
+
+autoscaling in services.yaml 
+
+service.yaml ?
+
+dockerFile ?
+
+bom ?
+
+---------------Publisis second round ---------------------------
+
+
+//Given an array of integers. Find the valuable number (different one). 
+//A number is valuable one if it's occurence in array is different
+// than the occurences of other numbers. 
+//Given that, there will only be one valuable number in the array.
+ 
+//int[] input = {2,2,2,3,3,3,4,4,6,6,6,5,5,5};  //output is 4
+//int[] input = {3,3,2,2,4,4,5,5,5,6,6};        //output is 5
+
+how to stop Breaking immutability by passing java object 
+
+final class A{
+B b
+A(B b){
+this.b = b;
+}
+
+how do you stop break this property as if you change b's state outside . This immutability property will be broken
+
+How do you implement redis lock in a distributed system
+
+how do you ensure high availbility and consistency in mongodb . Which is the default one in mongodb
+
+what is cap theorem
+
+you have to set limit on transaction per second from BE to database . Not from outside using rate limiter, how will you achieve this
+how to handle this in aws service
+
+tps in aws
+
+how to implement saga pattern
+
+how will you roll back across multiple services implementation (if using saga or any other approach implementation)
+If we make a post call . That has to be undone and changes made in DB should be rolled back
+
+
+
+-------------------GE Health care------------------
+
+Java program
+Find first repeated character in a string using stream API.
+eg: "ABCDBA" output "B"
+
+how to make sure your servers are not going down
+
+what to do when one of your node goes off(tainted) how do you ensure all your pods are running fine
+
+How do you deploy your application to kubernates
+
+can you create 2 vpc using a same subnet
+
+zookeper
+
+zookeper role in kafka architecture
+
+Easy :
+
+what is serverless architecture
+java8 streams
+metaspace in java8
+Handline execptions in your project
+
+
+-------------------Netcracker-----------
+Why java lets us to create String object when string pool gives maximum optimization using string pool
+
+Employee table bonus table
+
+Query all managers who did not receive the bonus 
+
+query all the employees who have received bonus greater than 
+
+
+------------------bosch 2nd round-------------------------
+
+
+can you have custom finder methods in jpa
+
+how do you have filters in java, how requst val -- check again java sprinboot filter, java spring security
+
+how you handle request validations in your project
+
+what is openshift
+
+spring security how is it used ?
+
+mutltiple databases how to use in your application  -- check again
+
+how do you use rest templates asynchronously
+
+microservices patterns
+
+kubernates - openshift
+
+
+----------------GE Healthcare 2nd round --------------------
+
+
+Write a java code for microservice which will upload a file to s3 bucket and send a notification to another consuming application which should consume the file from the 
+s3 bucket .
+Writing code for aws s3 bucket
+Code to push and receive values in kafka
+write code to generate docker image
+more on eks
+
+Write a java program using binary tree
+real world examples of binary tree
+can binary tree be used in sorting
+write a code for any sorting like merge sort , bubble sort etc ..  any sorting
+
+------------------REact front end developer -----------------------
+
+
+What is react router
+diff flux and redux
+error boundry in react
+props drillings in react
+how to avoid props drilling
+react principles
+
+
+------------------Athena 1st round system design
+
+how oauth2 validation is done in the
+how oauth2 validation is done when received from an api 
+
+------------------Athena 2nd round system design
+
+why treafik is used as an ingress controller , 
+
+what is the use of nginx
+
+Anyother tool instead of ingress , why was ingress choosen over others
+
+how autoscaling is implemented
+
+rules written to avoid ddos attack
+
+rule for rate limiting how is it done in apigee gateway
+
+how many request you aplication gets in a day , and in a second
+
+what is the latency of your application
+
+how do you create your pipeline
+
+in your pipeline jenkins is running on 1 server , bit bucket is running on another server .
+How is the underlying aws pipeline framework communicating among all the services
+
+what are the ways  to exposing your pods toutside and services inside pod  exposing 
+
+---------------------IBM-------------------------------
+
+saga pattern - read fully
+(saga pattern architecture practical implementation and code - read fully)
+
+liquibase or how is your database being structured added and received in cloud
+
+how we check the health of a software application
+
+where and all to check when one cloud server goes down
+
+s3 bucket upload code
+
+program :
+
+sort employee object based on name in asc and age in desc
+    List<Employee> list = new ArrayList<>();
+        list.add(new Employee(1, "LMN", 20));
+        list.add(new Employee(2, "ABC", 30));
+        list.add(new Employee(3, "XYZ", 50));
+        list.add(new Employee(4, "ABC", 40));
+		
+list.sort(Comparator.comparing(Employee::getName).thenComparing(Comparator.comparing(Employee::getAge).reversed()));
+
+difference between jwt and oauth access token 
+
+-------------Acuity---------------------
+
+
+DEsign LLD of parking lot
+
+java program
+use recursion to create numbers in following pattern
+1, 4, 8, 13,  ...
+
+
+Questions :
+
+Can elastic search be implemented only for nosql
+
+what is spark streaming and spark
+
+
+-- sep 25 - 2024
+
+IAM roles
+
+Managed Streaming for Apache Kafka (Amazon MSK)
+------------
+
+
+jpa , hibernate
+junit
+Kafka
+aws
+dockerfile
+mongo DB
+
+blackbox.ai
+komo.ai
+Architure system design ---------------
+
+
+Authentication: OAuth 2.0 or JWT.
+Database diagram of apps
+web application firewall working
+Apache Kafka as the data hub.
+ZUUL (or other alternate API gateway implementation)
+APIGEE imp 
+
+Dec -29 questions
+
+How oauth is verfied by the resource server
+IAM Roles and Security:
+Elastic bean stalk imp
+EKS imp
+Jfrog to create docker images
+docker images how is it created in aws environment
+aws lambda imp
+API Gateway implementation
+Springboot 3 migration, code deprecated and issues handled
+Deploy sprinboot app to aws eks using script
+Running docker file in springboot prodcution application
+Full study docker file
+<appname>-deployment.yaml and <appname>-service.yaml
+Amazon elastic repositories
+API gateway implement in aws
+Access S3 from SpringBooot app using code
+Authentication implementations
+Aldready seen one eks flow without pipeline . See one flow with pipeline
+How to create this pipeline
+zuul and springcloud api gateway implementation
+Redis implementation and cache eviction from springboot
+What data's will be stored inside redis
+
+
+--
+
+Threads, executors, future,completableFuture
+BaseRestController
+
+--------dynmaic programming
+
+climibing lader
+ttraingle dynamic program least value in that traingle
+house robber
+house robber 2
+stock aximum buy
+
+
+Fibonacci Number (LeetCode 509)  -- done
+Climbing Stairs (LeetCode 70))  -- done
+House Robber (LeetCode 198))  -- done
+House Robber II (LeetCode 213))  -- done
+Coin Change (LeetCode 322)
+Coin Change II (LeetCode 518)
+Target Sum (LeetCode 494)
+Partition Equal Subset Sum (LeetCode 416) -- inprogress
+Longest Palindromic Subsequence (LeetCode 516)
+Interleaving String (LeetCode 97)
+Distinct Subsequences (LeetCode 115)
+Edit Distance (LeetCode 72)
+Jump Game II (LeetCode 45)
+Minimum Path Sum (LeetCode 64)
+Word Break (LeetCode 139) --- YES
+
+triangle - in progress
+knapsavck - in progress
+
+16. Word Break II (LeetCode 140) -- inprogress
+17. Decode Ways (LeetCode 91) -- inprogress
+18. Unique Paths (LeetCode 62)
+19. Unique Paths II (LeetCode 63)
+20. Longest Increasing Subsequence (LeetCode 300) -- done
+21. Minimum Cost For Tickets (LeetCode 983)
+22. Palindrome Partitioning II (LeetCode 132)
+23. Combination Sum IV (LeetCode 377)
+24. Scramble String (LeetCode 87)
+25. Regular Expression Matching (LeetCode 10)
+26. Wildcard Matching (LeetCode 44)
+27. Integer Break (LeetCode 343)
+28. Burst Balloons (LeetCode 312)
+29. Stone Game (LeetCode 877)
+30. Predict the Winner (LeetCode 486)
+
+sliding window ----
+
+Maximum Average Subarray   -- done
+Longest Repeating Character Replacement  -- inprogress
+Minimum Size Subarray Sum  -- inprogress
+Maximum Vowels in a Substring  -- inprogress
+Longest Substring Without Repeating Characters -- inprogress
+Permutation In String -- inprogress
+Minimum Size Subarray Sum
+
+----------------------------
+
+
+how is confluent used in kafka
