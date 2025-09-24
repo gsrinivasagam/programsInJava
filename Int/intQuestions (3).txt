@@ -2952,3 +2952,256 @@ Minimum Size Subarray Sum
 
 how is confluent used in kafka
 
+
+----------------------------------------------Nielson global----------------------------------------------
+
+Full technical architecture.
+
+rest template to call 2 microservice code write 
+m1  -  m2
+url1   url2
+
+code for exception handling and handler
+Saga pattern and how is the code implemented in your project. Do you know the code.
+
+Why redis is being used. How do you synch database with redis
+what datas you store in your redis
+
+Authentication mechanism used in your project. How are you handling the validation. 
+How oauth2 auth is used validation logics used in your api
+
+Logging being handled
+------------
+
+
+jpa , hibernate
+junit
+Kafka
+aws
+dockerfile
+mongo DB
+
+blackbox.ai
+komo.ai
+Architure system design ---------------
+
+
+Authentication: OAuth 2.0 or JWT.
+Database diagram of apps
+web application firewall working
+Apache Kafka as the data hub.
+ZUUL (or other alternate API gateway implementation)
+APIGEE imp 
+
+Dec -29 questions
+
+How oauth is verfied by the resource server
+IAM Roles and Security:
+Elastic bean stalk imp
+EKS imp
+Jfrog to create docker images
+docker images how is it created in aws environment
+aws lambda imp
+API Gateway implementation
+Springboot 3 migration, code deprecated and issues handled
+Deploy sprinboot app to aws eks using script
+Running docker file in springboot prodcution application
+Full study docker file
+<appname>-deployment.yaml and <appname>-service.yaml
+Amazon elastic repositories
+API gateway implement in aws
+Access S3 from SpringBooot app using code
+Authentication implementations
+Aldready seen one eks flow without pipeline . See one flow with pipeline
+How to create this pipeline
+zuul and springcloud api gateway implementation
+Redis implementation and cache eviction from springboot
+What data's will be stored inside redis
+
+
+
+
+--------------Enphase energy -------------
+
+public static int threshold = 17 ;
+ 
+public void sendEmail(List<Email> emails) {
+ 
+//call sendEmail only if email is sent to user in domain abc.com
+ 
+}
+ 
+public void sendEmail(String emailid , String subject , String body) {
+ 
+// Objective : call gateway1 with threshold (17% of time) and rest of call should go to gateway2
+// no loops and no counters. No Cache
+// Assume email-Ids are vast in number and diverse
+ 
+}
+ 
+private void gateway1(String emailid , String subject , String body) {
+ 
+}
+ 
+private void gateway2(String emailid , String subject , String body) {
+ 
+}
+
+public class Singleton{
+private static final int response;
+
+private Singleton(int count){
+this.response = count;
+}
+
+public synchorsize getCount(){
+if(response == null){
+	Synchronised(){
+	
+	}
+}
+
+
+return response;
+	
+}
+ 
+ 
+ Singleton design pattern and how to not break it during serialization
+
+
+-- JLL ---
+
+AUthentication flow, how validation happens in api, How it is handled and validated in Authentication server.
+
+How secret manager in aws is being used.
+
+my ans : 
+
+  //workOrder
+
+
+//    request -- session information
+//                signature
+
+    //redis -- session details
+
+    //secret
+
+    //kubectl secrets  -- config
+
+    //secret manager
+
+    //IAM roles
+
+
+//    controller
+    validateReequest(){
+
+    }
+
+    //service
+----my ans ends here
+
+From my ans he asked, if the validation is happening in auth server i need user details in api. How to get it without decoding again in the api.
+
+How validation happens to verify authentication and authorization
+
+//{1,2,3,4,6,5,7,6,8,9,6,5,4}
+
+// a program to give 3rd most frequently duplicate number in the array.
+//        2. How many times it got duplicated
+
+How do you optimise this code. What are the changes you will make to make this search api return faster results when it has to return million data. How to fine tune and optimise it
+
+ @RestController
+    public class PropertySearchController {
+        @GetMapping("/search")
+        public List<Property> searchProperties(
+                @RequestParam String location,
+                @RequestParam BigDecimal minPrice,
+                @RequestParam BigDecimal maxPrice) {
+            List<Property> properties = propertyRepository.findByLocationAndPriceRange(
+                    location, minPrice, maxPrice);
+            // Loads related data for each property
+            for (Property property : properties) {
+                property.setOwner(ownerService.getOwner(property.getOwnerId()));
+                property.setAnalytics(analyticsService.getAnalytics(property.getId()));
+            }
+            return properties;
+        }
+    }
+
+
+===========================
+
+Threads, executors, future,completableFuture
+BaseRestController
+
+Junit fully
+
+Real world design patterns -- https://github.com/Dannemann/real-world-design-patterns/tree/master
+https://stackoverflow.com/questions/3478225/when-do-we-need-adapter-pattern
+
+Adapter in MES Aviation -- https://chatgpt.com/c/67d8e63f-7ff8-8009-9cfa-72ee41e39c1b
+
+--------dynmaic programming
+
+climibing lader
+ttraingle dynamic program least value in that traingle
+house robber
+house robber 2
+stock aximum buy
+
+
+Fibonacci Number (LeetCode 509)  -- done
+Climbing Stairs (LeetCode 70))  -- done
+House Robber (LeetCode 198))  -- done
+House Robber II (LeetCode 213))  -- done
+Coin Change (LeetCode 322)
+Coin Change II (LeetCode 518)
+Target Sum (LeetCode 494)
+Partition Equal Subset Sum (LeetCode 416) -- inprogress
+Longest Palindromic Subsequence (LeetCode 516)
+Interleaving String (LeetCode 97)
+Distinct Subsequences (LeetCode 115)
+Edit Distance (LeetCode 72)
+Jump Game II (LeetCode 45)
+Minimum Path Sum (LeetCode 64)
+Word Break (LeetCode 139) --- YES
+
+triangle - in progress
+knapsavck - in progress
+
+16. Word Break II (LeetCode 140) -- inprogress
+17. Decode Ways (LeetCode 91) -- inprogress
+18. Unique Paths (LeetCode 62)
+19. Unique Paths II (LeetCode 63)
+20. Longest Increasing Subsequence (LeetCode 300) -- done
+21. Minimum Cost For Tickets (LeetCode 983)
+22. Palindrome Partitioning II (LeetCode 132)
+23. Combination Sum IV (LeetCode 377)
+24. Scramble String (LeetCode 87)
+25. Regular Expression Matching (LeetCode 10)
+26. Wildcard Matching (LeetCode 44)
+27. Integer Break (LeetCode 343)
+28. Burst Balloons (LeetCode 312)
+29. Stone Game (LeetCode 877)
+30. Predict the Winner (LeetCode 486)
+
+sliding window ----
+
+Maximum Average Subarray   -- done
+Longest Repeating Character Replacement  -- inprogress
+Minimum Size Subarray Sum  -- inprogress
+Maximum Vowels in a Substring  -- inprogress
+Longest Substring Without Repeating Characters -- inprogress
+Permutation In String -- inprogress
+Minimum Size Subarray Sum
+
+----------------------------
+
+
+how is confluent used in kafka
+
+https://www.linkedin.com/posts/tannika-majumder-424a5040_as-a-senior-engineer-with-over-12-years-of-activity-7356910894007635968-CPEk?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAAATH92ABRxDE5r_R_MWr-FCyGKz3gUSSghs
